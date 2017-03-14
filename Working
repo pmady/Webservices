@@ -1,0 +1,7 @@
+1)Download project.
+2)Open in Eclipse.
+3)Run -> Launch web service Explorer
+4)Click on wsdl.
+5)give wsdl url as"http:localhost:{portnumber}/apache-cxf-jax-ws-demo/HelloWorld?wsdl
+6)Click on method you want use.
+7)provide valid parameters, will get result at bottom(body tab).
